@@ -1,5 +1,5 @@
 
-![Alt Text](img/O-Comic-Zelda-Sword.gif)
+![Alt Text](img/ByZVWXgIIAA5Y2D.png)
 
 #python_ds
 
